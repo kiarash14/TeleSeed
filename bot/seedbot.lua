@@ -239,7 +239,7 @@ Admins
 @imandaneshi [Developer]
 @Rondoozle [Developer]
 @seyedan25 [Manager]
-
+Kiarash=Bumper
 Special thanks to
 awkward_potato
 Siyanew
